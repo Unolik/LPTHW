@@ -8,3 +8,6 @@ print "He is %d inches tall." % my_height
 print "He is %d kilo heavy." % my_weight
 
 print "If I add %d, %d, and %d I get %d." % (my_age, my_heigths, my_weight, my_age + my_heigths + my_weight)
+
+ex1.py
+EX01
